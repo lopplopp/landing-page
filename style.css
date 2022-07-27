@@ -114,8 +114,7 @@ body{
 .information .image{
     display:flex;
     justify-content: center;
-    gap:50px;
-    padding: 0 20%;
+    gap:40px;
     padding-bottom: 50px;
     flex:1 1 auto;
     flex-wrap:wrap;
